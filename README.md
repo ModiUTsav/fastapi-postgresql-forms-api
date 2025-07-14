@@ -3,6 +3,12 @@ This project implements two API endpoints from the provided Sarva Form Data Swag
 
 Objective
 The objective of this assignment was to develop two fully functional backend APIs that adhere to specified request/response structures, demonstrating backend development skills with Python FastAPI and PostgreSQL.
+##ScreenShot
+<img width="1919" height="1136" alt="Image" src="https://github.com/user-attachments/assets/f3e661f5-c811-4442-9272-b2224c45f6af" />
+
+<img width="1917" height="1032" alt="Image" src="https://github.com/user-attachments/assets/ff73a0bc-66d2-494c-998a-2830ddc127a7" />
+
+<img width="1916" height="1142" alt="Image" src="https://github.com/user-attachments/assets/fca7c695-3281-4050-ad78-4227fa0aab1f" />
 
 Implemented APIs
 Based on the provided Swagger UI, the following two APIs have been implemented:
